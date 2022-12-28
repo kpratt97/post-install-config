@@ -31,15 +31,19 @@ This will be a video demonstration tutorial that outlines the post installation 
 - Adding Users
 - Creating Help Topics
 
-<h2>Installation Steps</h2>
+<h2>osTicket Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/hd9gIRz.mp4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> Creating OsTicket Role
+https://user-images.githubusercontent.com/119460677/209866766-f547bbb1-83b8-4075-a09c-e26b5140a69c.mp4
 </p>
 <p>
   Role has set permissions that can be checked/unchecked given that role in association. Roles grant Agents permissison per Department they have access to.
 </p>
 <br />
+
+
+
+
 
 <p>
 <img src="(https://i.imgur.com/hd9gIRz.mp4)" height="80%" width="80%" alt="Disk Sanitization Steps"/>

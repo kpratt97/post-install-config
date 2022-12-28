@@ -4,13 +4,13 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Post Installation</h1>
+This will be a video demonstration tutorial that outlines the post installation of the help desk ticketing system osTicket which includes me creating roles, departments, agents and users.<br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+
 
 <h2>Environments and Technologies Used</h2>
 
@@ -21,14 +21,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- osTicket
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Creating OsTicket Role
+- Creating the Department
+- Adding Agents
+- Adding Users
+- Creating Help Topics
 
 <h2>Installation Steps</h2>
 

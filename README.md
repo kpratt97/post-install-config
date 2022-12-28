@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/119460677/209870784-b30a25a3-70bb-421c
 </p>
 <br />
 
-<p> Creating OsTicket Department: The Department host many sub departments of the osTicket, the status of the department will determine its visibility as well as if tickets can be routed the that department
+<p> Creating The Department: The Department host many sub departments of the osTicket, the status of the department will determine its visibility as well as if tickets can be routed the that department
 
 https://user-images.githubusercontent.com/119460677/209869279-75ac86ff-9caf-4100-ad88-a7c928ee2e73.mp4
 
@@ -61,18 +61,21 @@ https://user-images.githubusercontent.com/119460677/209869279-75ac86ff-9caf-4100
 
 
 
-<p>
-<img src="(https://i.imgur.com/hd9gIRz.mp4)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p> Creating Agent Profile: Agents are given access to the helpdesk with the intent to respond and resolve the tickets. When agents are added to the helpdesk they are to be assigned to a primary department and given a primary role for the tickets.
+
+
+https://user-images.githubusercontent.com/119460677/209872895-2c71267c-823e-4631-8869-13829fff6d41.mp4
+
+
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+ <p> Creating OsTicket Department: The Department host many sub departments of the osTicket, the status of the department will determine its visibility as well as if tickets can be routed the that department
+
+https://user-images.githubusercontent.com/119460677/209869279-75ac86ff-9caf-4100-ad88-a7c928ee2e73.mp4
+ 
+ 
+ <p> Creating OsTicket Department: The Department host many sub departments of the osTicket, the status of the department will determine its visibility as well as if tickets can be routed the that department
+
+https://user-images.githubusercontent.com/119460677/209869279-75ac86ff-9caf-4100-ad88-a7c928ee2e73.mp4
 <br />

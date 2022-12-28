@@ -34,7 +34,7 @@ This will be a video demonstration tutorial that outlines the post installation 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://clipchamp.com/watch/0mksWfe0fwv" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src= "https://clipchamp.com/watch/0mksWfe0fwv" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   Role has set permissions that can be checked/unchecked given that role in association. Roles grant Agents permissison per Department they have access to.

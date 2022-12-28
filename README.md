@@ -28,7 +28,7 @@ This will be a video demonstration tutorial that outlines the post installation 
 - Creating OsTicket Role
 - Creating the Department
 - Adding Agents
-- Adding Users
+- Creating Users
 - Creating Help Topics
 
 <h2>osTicket Steps</h2>
@@ -37,9 +37,6 @@ This will be a video demonstration tutorial that outlines the post installation 
 
 
 https://user-images.githubusercontent.com/119460677/209870784-b30a25a3-70bb-421c-a91b-17a2edebc139.mp4
-
-
-
 
 
 </p>
@@ -59,8 +56,6 @@ https://user-images.githubusercontent.com/119460677/209869279-75ac86ff-9caf-4100
 </p>
 <br />
 
-
-
 <p> Creating Agent Profile: Agents are given access to the helpdesk with the intent to respond and resolve the tickets. When agents are added to the helpdesk they are to be assigned to a primary department and given a primary role for the tickets.
 
 
@@ -70,11 +65,16 @@ https://user-images.githubusercontent.com/119460677/209872895-2c71267c-823e-4631
 </p>
 <br />
 
- <p> Creating OsTicket Department: The Department host many sub departments of the osTicket, the status of the department will determine its visibility as well as if tickets can be routed the that department
+ <p> Creating OsTicket User: Users can create an account and log-in to create a ticket or check a ticket’s status.
 
-https://user-images.githubusercontent.com/119460677/209869279-75ac86ff-9caf-4100-ad88-a7c928ee2e73.mp4
+
+
+https://user-images.githubusercontent.com/119460677/209874167-7b33f70d-78dc-4869-8c88-c8f948bddb33.mp4
+
+
  
- 
+ </p>
+<br />
  <p> Creating OsTicket Department: The Department host many sub departments of the osTicket, the status of the department will determine its visibility as well as if tickets can be routed the that department
 
 https://user-images.githubusercontent.com/119460677/209869279-75ac86ff-9caf-4100-ad88-a7c928ee2e73.mp4

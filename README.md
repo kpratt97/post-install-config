@@ -34,7 +34,11 @@ This will be a video demonstration tutorial that outlines the post installation 
 <h2>osTicket Steps</h2>
 
 <p> Creating OsTicket Role:
-https://user-images.githubusercontent.com/119460677/209866766-f547bbb1-83b8-4075-a09c-e26b5140a69c.mp4
+
+
+https://user-images.githubusercontent.com/119460677/209869583-53c23212-4a0e-4a37-9783-f78e98b41d6f.mp4
+
+
 </p>
 <p>
   Role has set permissions that can be checked/unchecked given that role in association. Roles grant Agents permissison per Department they have access to.

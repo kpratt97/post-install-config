@@ -33,7 +33,7 @@ This will be a video demonstration tutorial that outlines the post installation 
 
 <h2>osTicket Steps</h2>
 
-<p> Creating OsTicket Role
+<p> Creating OsTicket Role:
 https://user-images.githubusercontent.com/119460677/209866766-f547bbb1-83b8-4075-a09c-e26b5140a69c.mp4
 </p>
 <p>
@@ -41,7 +41,16 @@ https://user-images.githubusercontent.com/119460677/209866766-f547bbb1-83b8-4075
 </p>
 <br />
 
+<p> Creating OsTicket Department:
 
+https://user-images.githubusercontent.com/119460677/209869279-75ac86ff-9caf-4100-ad88-a7c928ee2e73.mp4
+
+
+</p>
+<p>
+ Department host many departments of the osTicket, the status of the department will determine its visibility as well as if tickets can be roted the that department
+</p>
+<br />
 
 
 

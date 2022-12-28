@@ -33,7 +33,7 @@ This will be a video demonstration tutorial that outlines the post installation 
 
 <h2>osTicket Steps</h2>
 
-<p> Creating OsTicket Role:
+<p> Creating OsTicket Role:  Role has set permissions that can be checked/unchecked given that role in association. Roles grant Agents permissison per Department they have access to.
 
 
 https://user-images.githubusercontent.com/119460677/209870784-b30a25a3-70bb-421c-a91b-17a2edebc139.mp4
@@ -44,18 +44,18 @@ https://user-images.githubusercontent.com/119460677/209870784-b30a25a3-70bb-421c
 
 </p>
 <p>
-  Role has set permissions that can be checked/unchecked given that role in association. Roles grant Agents permissison per Department they have access to.
+ 
 </p>
 <br />
 
-<p> Creating OsTicket Department:
+<p> Creating OsTicket Department: The Department host many sub departments of the osTicket, the status of the department will determine its visibility as well as if tickets can be routed the that department
 
 https://user-images.githubusercontent.com/119460677/209869279-75ac86ff-9caf-4100-ad88-a7c928ee2e73.mp4
 
 
 </p>
 <p>
- The Department host many sub departments of the osTicket, the status of the department will determine its visibility as well as if tickets can be routed the that department
+ 
 </p>
 <br />
 

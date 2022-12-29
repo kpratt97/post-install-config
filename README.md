@@ -75,7 +75,10 @@ https://user-images.githubusercontent.com/119460677/209874167-7b33f70d-78dc-4869
  
  </p>
 <br />
- <p> Creating OsTicket Department: The Department host many sub departments of the osTicket, the status of the department will determine its visibility as well as if tickets can be routed the that department
+ <p> Creating Help Topics: Help topics are used to organize help desk ticket requests into specific categories.
 
-https://user-images.githubusercontent.com/119460677/209869279-75ac86ff-9caf-4100-ad88-a7c928ee2e73.mp4
+
+https://user-images.githubusercontent.com/119460677/209909845-7d0490fe-3901-41d2-b221-ec8ca2e78487.mp4
+
+
 <br />

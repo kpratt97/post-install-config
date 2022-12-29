@@ -75,7 +75,7 @@ https://user-images.githubusercontent.com/119460677/209874167-7b33f70d-78dc-4869
  
  </p>
 <br />
- <p> Creating Help Topics: Help topics are used to organize help desk ticket requests into specific categories.
+ <p> Creating Help Topics: Help topics are used to organize help desk ticket requests into specific categories for example any issues with computer hardware such as the mouse, keyboard etc.
 
 
 https://user-images.githubusercontent.com/119460677/209909845-7d0490fe-3901-41d2-b221-ec8ca2e78487.mp4

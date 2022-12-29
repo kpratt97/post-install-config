@@ -1,4 +1,4 @@
-# post-install-config
+# Post Installation of osTicket
 
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>

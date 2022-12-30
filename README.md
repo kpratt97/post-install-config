@@ -30,6 +30,7 @@ This will be a video demonstration tutorial that outlines the post installation 
 - Adding Agents
 - Creating Users
 - Creating Help Topics
+- Configuring SLA
 
 <h2>osTicket Steps</h2>
 

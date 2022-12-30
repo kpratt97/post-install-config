@@ -83,3 +83,11 @@ https://user-images.githubusercontent.com/119460677/209909845-7d0490fe-3901-41d2
 
 
 <br />
+
+ <p> Configuring SLA: Help topics are used to organize help desk ticket requests into specific categories for example any issues with computer hardware such as the mouse, keyboard etc.
+
+
+https://user-images.githubusercontent.com/119460677/210110948-4bc6f012-4554-40e2-b03a-05183d3c51ff.mp4
+
+
+

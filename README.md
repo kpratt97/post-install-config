@@ -34,7 +34,7 @@ This will be a video demonstration tutorial that outlines the post installation 
 
 <h2>osTicket Steps</h2>
 
-<p> Creating OsTicket Role:  Role has set permissions that can be checked/unchecked given that role in association. Roles grant Agents permissison per Department they have access to.
+<p> Creating OsTicket Role:  Role has set permissions that can be checked/unchecked given that role in association. Roles grant Agents permissison per Department they have access to. Admin Panel -> Agents -> Roles
 
 
 https://user-images.githubusercontent.com/119460677/209870784-b30a25a3-70bb-421c-a91b-17a2edebc139.mp4
@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/119460677/209870784-b30a25a3-70bb-421c
 </p>
 <br />
 
-<p> Creating The Department: The Department host many sub departments of the osTicket, the status of the department will determine its visibility as well as if tickets can be routed the that department
+<p> Creating The Department: The Department host many sub departments of the osTicket, the status of the department will determine its visibility as well as if tickets can be routed the that department. Admin Panel -> Agents -> Departments
 
 https://user-images.githubusercontent.com/119460677/209869279-75ac86ff-9caf-4100-ad88-a7c928ee2e73.mp4
 
@@ -57,7 +57,7 @@ https://user-images.githubusercontent.com/119460677/209869279-75ac86ff-9caf-4100
 </p>
 <br />
 
-<p> Creating Agent Profile: Agents are given access to the helpdesk with the intent to respond and resolve the tickets. When agents are added to the helpdesk they are to be assigned to a primary department and given a primary role for the tickets.
+<p> Creating Agent Profile: Agents are given access to the helpdesk with the intent to respond and resolve the tickets. When agents are added to the helpdesk they are to be assigned to a primary department and given a primary role for the tickets. Admin Panel -> Agents -> Add New
 
 
 https://user-images.githubusercontent.com/119460677/209872895-2c71267c-823e-4631-8869-13829fff6d41.mp4
@@ -66,7 +66,7 @@ https://user-images.githubusercontent.com/119460677/209872895-2c71267c-823e-4631
 </p>
 <br />
 
- <p> Creating OsTicket User: Users can create an account and log-in to create a ticket or check a ticket’s status.
+ <p> Creating OsTicket User: Users can create an account and log-in to create a ticket or check a ticket’s status. Agent Panel -> Users -> Add New
 
 
 
@@ -76,7 +76,7 @@ https://user-images.githubusercontent.com/119460677/209874167-7b33f70d-78dc-4869
  
  </p>
 <br />
- <p> Creating Help Topics: Help topics are used to organize help desk ticket requests into specific categories for example any issues with computer hardware such as the mouse, keyboard etc.
+ <p> Creating Help Topics: Help topics are used to organize help desk ticket requests into specific categories for example any issues with computer hardware such as the mouse, keyboard etc. Admin Panel -> Manage -> Help Topics
 
 
 https://user-images.githubusercontent.com/119460677/209909845-7d0490fe-3901-41d2-b221-ec8ca2e78487.mp4
@@ -84,7 +84,8 @@ https://user-images.githubusercontent.com/119460677/209909845-7d0490fe-3901-41d2
 
 <br />
 
- <p> Configuring SLA: Help topics are used to organize help desk ticket requests into specific categories for example any issues with computer hardware such as the mouse, keyboard etc.
+ <p> Configuring SLA: Service level agreement, which is the amount of time given to respond to a ticket that comes into the helpdesk before it is marked overdue.
+  Admin Panel -> Manage -> SLA
 
 
 https://user-images.githubusercontent.com/119460677/210110948-4bc6f012-4554-40e2-b03a-05183d3c51ff.mp4
